@@ -1,4 +1,4 @@
-# Food Name and Ingredients Classification using convolutional neural networks and transfer learning.
+# Food Name and Ingredients Classification using convolutional neural networks and transfer learning in DreamAI.
 
 Classify the name and ingredients of food dishes through their images.  
 
