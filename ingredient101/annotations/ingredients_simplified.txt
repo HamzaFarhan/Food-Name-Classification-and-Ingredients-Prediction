@@ -1,0 +1,101 @@
+butter,flour,sugar,brown sugar,apple,cinnamon,nut
+baby back ribs,apple,salt,mustard,brown sugar,worcestershire,gin,chili
+nut,cinnamon,bread,butter,phyllo dough,sugar,honey,lemon,baklava
+beef,lemon,gin,salt,pepper,baby arugula,asiago
+fat,steak,gin,shallot,parsley,capers,worcestershire,egg,black pepper,crostini
+beets,spinach,gorgonzola,nut,red wine,dijon mustard,gin,salt,black pepper,herbs
+water,sugar,yeast,egg,salt,milk,butter,flour,sugar
+grain,steak,soybean sprouts,spinach,cucumber,zucchini,carrot,garlic,scallions,soy,oil,seeds,salt,pepper,oil,egg,pepper,sugar,water
+bread,milk,sugar,butter,salt,egg,vanilla
+rolls,bacon,egg,brie,onion,cheddar,flour,salsa
+plum,garlic,gin,balsamic vinegar,basil,salt,black pepper,baguette
+garlic,plain greek yogurt,cheese,worcestershire,dijon mustard,lemon,anchovy,salt,pepper,lettuce,croutons
+sugar,cheese,almond,chocolate,liqueur,cannoli shells,cocoa,cocktail
+balsamic vinegar,tomato,cheese,basil,oil,black pepper,salt
+flour,baking,cinnamon,salt,sugar,egg,oil,apple,vanilla,carrot,cheese,butter,sugar,milk
+red snapper,lime,lemon,onion,tomato,serrano chilies,salt,oregano,pepper,cayenne pepper,cilantro,avocado,tortillas
+ham,sugar,butter,cheese,egg,vanilla
+fig,brie,honey
+chicken,black pepper,salt,curry,oil,onion,cloves,gin,broth,corn starch,sugar,peas,greek yogurt,cilantro
+chicken,cheddar,cumin,jalapeno chilies,wheat tortillas,salsa
+chicken,soy,garlic,sugar
+whipping,chocolate,sugar,butter
+vanilla,salt,egg,sugar,chocolate,chocolate
+water,butter,salt,sugar,flour,egg,oil,cinnamon
+salt,flour,milk,fat,onion,celery,potato,clam,butter
+bacon,morningstar farms chick'n patties,fat,bread,lettuce,cheddar,tomato
+crab,butter,shallot,salt,egg,worcestershire,paprika,black pepper,tartar,lemon,pepper,parsley,bread,bread
+butter,egg,sugar,whipping,vanilla,berries
+butter,flour,milk,cheese,thyme,nut,salt,pepper,bread,dijon mustard,bacon,egg
+cake,butter,caster sugar,flour,soda,baking,vanilla essence,milk,icing,sugar
+egg,mayonnaise,dijon mustard,paprika,salt,pepper,chives
+nut,spray,sugar,butter,egg,flour,baking,baking,salt,nut,butter,glaze,sugar,fat,maple syrup,colored sprinkles
+baking,shortening,flour,milk,salt
+salt,edam,salt
+english muffin,bacon,egg,butter,lemon,cayenne pepper
+snails,butter,mushroom,garlic,cheese,parsley
+beans,onion,parsley,garlic,flour,salt,cumin,coriander,black pepper,cayenne pepper,cardamom,oil
+filet,oil,garlic,gin,salt,pepper
+oil,potato,beer,flour,cod,pepper,chili,old bay,vinegar
+foie gras,salt,milk
+potato,flour,salt,black pepper,cayenne pepper,oil
+onion,butter,oil,salt,sugar,flour,beef,vermouth,pepper,baguette,cloves,cheese
+egg,milk,vanilla,cinnamon,salt,baguette,butter,sugar,maple syrup
+oil,calamari,flour,masa harina,parsley,lemon,parsley,salt,lemon,mayonnaise
+brown rice,oil,peas,carrot,garlic,egg,soy
+milk,sugar,vanilla
+egg,tartar,egg,cloves
+potato,egg,flour,salt
+tomato,cherry,onion,cucumber,pepper,lettuce,thyme,chives,feta,olive,oil,red wine,oregano,salt,black pepper
+bread,cheddar,tomato,onion,oil
+salmon,brown sugar,lemon,lemon,soy,water,oil
+avocado,onion,jalapeno chilies,cilantro,salt,lime
+cabbage,pork,onion,soy,sake,oil,garlic,corn starch,gyoza wrappers,oil,water,rice,oil
+beef,cheese,mayonnaise,ketchup,mustard,dill,black pepper,onion,tomato,lettuce
+broth,soy,pepper,shiitake,rice,corn starch,egg,tofu,gin,scallions
+dogs,dog bun,chili,onion,cheddar,mayonnaise,mustard,relish
+oil,onion,tomato,anaheim chile,cumin,adobo,chili,corn tortillas,butter,egg,cilantro
+chickpea,garlic,tahini,lemon,oil,salt,parsley
+cocoa,brown sugar,milk,vanilla
+pork,onion,garlic,tomato,tomato,italian,fennel,black pepper,noodles,egg,cheese,cheese,cheese
+parsley,thyme,bay,lobster,butter,gin,bran,shallot,carrot,celery,garlic,onion,salt,tomato,white wine,fish,cayenne pepper,corn starch,egg,chives
+mayonnaise,dijon mustard,celery,lemon,old bay,lobster,lettuce,dog rolls
+macaroni,cheddar,butter,milk,salt,pepper
+sugar,almond,sugar,egg
+noodles,miso,tofu,cress,onion,cilantro,pepper,miso,apple,gin,turmeric,water
+oil,cloves,tomato,mussels,white wine,parsley,bread
+chips,beef,beans,salsa,cheese,onion,cilantro,jalapeno chilies,pickle
+egg,oil,cheese,chilli,chives,dill,salmon
+onion,flour,baking,egg,bread,oil
+butter,celery,shallot,oyster,black pepper,cayenne pepper
+noodles,water,oil,cilantro,pepper,shrimp,shallot,egg,sugar,oyster,fish,lime,beans,scallions,nut,lime
+paella,chorizo,chicken,onion,garlic,chicken,tomato,saffron,paprika,oil,parsley,salt,pepper,shrimp,mussels,clams,lemon
+flour,baking,sugar,butter,egg,cake,bacon,onion,tomato,cheese,chives,parsley,salt,black pepper,maple syrup,oil,butter
+sugar,vanilla,unflavored gelatin,cold water
+duck,cinnamon,gin,nut,pepper,cloves,soy,honey,orange,parsley,onion,jam,sugar,vinegar,chutney
+marrow,oxtail,beef,clove,anise,cinnamon,cardamom,black pepper,coriander,fennel,gin,onion,shallot,fish,sugar,noodles,scallions,eye round,cilantro,basil,beans,lime,bird chile,chile,hoisin
+pizza,cherry,olive,oregano,basil,salt,oil,cheese
+pork,orange,lime,black pepper,cumin,cayenne pepper,garlic,oregano,oil,onion,garlic,white wine
+potato,corn starch,oil,cheese
+rib-eye roast,oil,salt,pepper,rosemary,thyme,garlic
+onion,garlic,jalapeno chilies,chipotle,tomato,dijon mustard,vinegar,paprika,ketchup,worcestershire,brown sugar,bay leaf,salt,shoulder roast,buns
+shiitake,gin,dashi,noodles,egg,baby bok choy,radish,miso,soy,oil,scallions,pepper
+cheese,pasta,cheese,cheese
+cake,sugar,cocoa,baking,salt,oil,butter,egg,red food coloring,vanilla,vinegar,butter,cheese,sugar,chocolate
+oil,arborio rice,risotto,broth,butter,cheese
+oil,potato,peas,cumin,salt,chili,chilli,garam masala,gin,coriander,flour,water,cold water,oil
+sashimi,rice,mirin,oil,gin
+scallop,cajun,oil,butter,cayenne pepper,salt,pepper,greens
+seaweed,seeds,tomato,rice
+grits,water,salt,butter,cheddar,cheese,cheese,pepper,pepper,shrimp,salt,flour,bacon,fat,mushroom,pepper,cloves,onion,plum,chicken,lemon
+spaghetti,beef,pancetta,tomato,tomato,red wine,carrot,celery,onion,garlic,cheese,basil,oregano,bay,oil,salt,black pepper,cheese
+spaghetti,egg,cheese,bacon,garlic,salt,black pepper,parsley
+spring roll wrappers,noodles,carrot,cucumber,onion,soy,oil,seeds
+oil,garlic,black pepper,salt,sirloin,steak,worcestershire
+strawberries,sugar,whipping,vanilla,honey,biscuits
+rice,water,rice,sugar,salt
+onion,garlic,beef,chili,salt,sugar,corn tortillas,salsa,cilantro,lime
+flour,egg,cold water,salt,konbu dashi,dashi,soy,octopus,onion,pie,cheese
+egg,sugar,mascarpone,brewed espresso,frangelico,rum,lady fingers,cocoa
+sushi grade tuna,scallions,tomato,cilantro,gin,soy,oil,cucumber
+egg,salt,sugar,vanilla,butter,flour,baking,milk

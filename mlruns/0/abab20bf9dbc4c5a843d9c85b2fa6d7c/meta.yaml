@@ -1,0 +1,15 @@
+artifact_uri: file:///home/farhan/hamza/GITHUB/Food-Name-Classification-and-Ingredients-Prediction/mlruns/0/abab20bf9dbc4c5a843d9c85b2fa6d7c/artifacts
+end_time: 1563820310210
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: abab20bf9dbc4c5a843d9c85b2fa6d7c
+run_uuid: abab20bf9dbc4c5a843d9c85b2fa6d7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1563820300180
+status: 3
+tags: []
+user_id: farhan

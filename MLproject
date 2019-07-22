@@ -1,0 +1,21 @@
+name: Food Classification
+
+conda_env: conda.yaml
+
+entry_points:
+  train_ingredients:
+    parameters:
+      data_path: {type: string}
+      size: {type: int, default: 256}
+      bs: {type: int, default: 32}
+      epochs: {type: int, default: 20}
+      load: {type: bool, default: True}
+      load_path: {type: string, default: ''}
+      device: {type: string, default: 'cpu'}
+    command: "python train_ingredients.py {data_path} {size} {bs} {epochs} {load} {load_path} {device}"
+  classify_ingredients:
+    parameters:
+      input_path: {type: string}
+      load_path: {type: string, default: ''}
+      device: {type: string, default: 'cpu'}
+    command: "python classify_ingredients.py {input_path} {load_path} {device}"    
