@@ -1,6 +1,8 @@
 # Food Name and Ingredients Classification using convolutional neural networks and transfer learning in DreamAI.
 
-Classify the name and ingredients of food dishes through their images.  
+The pretrained model has 96% top-1 accuracy on the test and validation sets for the food101 labels which is the best ever recorded on the datatset.  
+Up until now the the highest accuracy was 90.52% (https://platform.ai/blog/page/3/new-food-101-sota-with-fastai-and-platform-ais-fast-augmentation-search/)  
+And not only does it classify the name, it also predicts the ingredients of the food. This can be used as a building block in several other advanced food and diet industry applications such as automated recipe generation, calorie calculations etc.
 
 ### Important Note:
 
