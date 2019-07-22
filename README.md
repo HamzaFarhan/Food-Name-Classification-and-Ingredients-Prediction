@@ -1,1 +1,0 @@
-# Food-Name-Classification-and-Ingredients-Prediction
